@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134438615467",
+    "project_id": "mak-dfs",
+    "storage_bucket": "mak-dfs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134438615467:android:89e2fe90ab92e554f0baee",
+        "android_client_info": {
+          "package_name": "makdfs.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134438615467-r4jjo3ck8437eet833tto7qs2dlp6hdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUEmFrxMNiTQJQ56OBVosS8gtdvr7r-Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134438615467-r4jjo3ck8437eet833tto7qs2dlp6hdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

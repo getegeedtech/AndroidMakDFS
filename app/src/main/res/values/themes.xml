@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MAK_DFS" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colordarkblue</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--<item name="android:windowIsTranslucent">true</item>-->
+        <item name="android:windowBackground">@color/colordarkblue</item>
+    </style>
+
+    <style name="MaterialDialogSheet" parent="@android:style/Theme.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowAnimationStyle">@style/MaterialDialogSheetAnimation</item>
+    </style>
+    <style name="MaterialDialogSheetAnimation">
+        <item name="android:windowEnterAnimation">@anim/popup_show</item>
+        <item name="android:windowExitAnimation">@anim/popup_hide</item>
+    </style>
+
+    <style name="toaststyle">
+        <item name="stTextBold">true</item>
+        <item name="stTextColor">#ffffff</item>
+        <item name="stTextSize">14sp</item>
+        <item name="stColorBackground">#388E3C</item>
+        <item name="stStrokeWidth">1dp</item>
+        <item name="stStrokeColor">#B9F375</item>
+        <item name="stIconStart">@drawable/happy</item>
+        <item name="stLength">LONG</item>
+    </style>
+
+    <style name="toastfail">
+        <item name="stTextBold">true</item>
+        <item name="stTextColor">#ffffff</item>
+        <item name="stTextSize">14sp</item>
+        <item name="stColorBackground">#F44336</item>
+        <item name="stStrokeWidth">1dp</item>
+        <item name="stStrokeColor">#FBC02D</item>
+        <item name="stIconStart">@drawable/info</item>
+        <item name="stLength">LONG</item>
+    </style>
+</resources>

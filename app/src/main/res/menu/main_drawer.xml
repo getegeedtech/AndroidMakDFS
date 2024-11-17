@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/dashboard"
+        android:title="Home"/>
+    <item
+        android:icon="@drawable/person"
+        android:id="@+id/profile"
+        android:title="Profile"/>
+    <item
+        android:icon="@drawable/assignment"
+        android:id="@+id/transaction"
+        android:title="Transaction"/>
+    <item
+        android:icon="@drawable/help"
+        android:id="@+id/help"
+        android:title="Help &amp; Suport"/>
+    <item
+        android:icon="@drawable/share"
+        android:id="@+id/shre"
+        android:title="Share the App"/>
+    <item
+        android:icon="@drawable/assignment"
+        android:id="@+id/trms"
+        android:title="Terms &amp; Conditions"/>
+    <item
+        android:icon="@drawable/insert_chart"
+        android:id="@+id/privacy"
+        android:title="Privacy Policy"/>
+
+    <item
+        android:icon="@drawable/lock"
+        android:id="@+id/logout"
+        android:title="Logout"/>
+</menu>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4000</color>
+    <color name="colorPrimaryDark">#DF3A01</color>
+    <color name="colorAccent">#C3B1B8</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorBacground">#FAF9F9</color>
+    <color name="color_app_font_news_secondary">#E3E0E0</color>
+    <color name="red">#EC5D5D</color>
+    <color name="green">#127216</color>
+    <color name="colorylet">#e44c0b</color>
+    <color name="amBack">#DE643B</color>
+    <color name="amGreen">#DBF1DB</color>
+    <color name="amBlue">#0097A7</color>
+    <color name="cl1">#BFAD55</color>
+    <color name="cl2">#697478</color>
+    <color name="cl3">#763B8C</color>
+    <color name="cl4">#554469</color>
+    <color name="cl5">#568568</color>
+    <color name="cl6">#816025</color>
+    <color name="cl7">#DCBAC5</color>
+    <color name="cl8">#BB2929</color>
+    <color name="cl9">#442223</color>
+    <color name="cl10">#30A3A3</color>
+    <color name="cl11">#258551</color>
+    <color name="cl12">#24D598</color>
+    <color name="cl13">#A37F1C</color>
+    <color name="cl14">#2E708C</color>
+    <color name="cl15">#ED2623</color>
+    <color name="colorGrey">#c3c3c3</color>
+    <color name="colordarkblue">#0b1628</color>
+    <color name="colordarkblue2">#041125</color>
+
+    <color name="login_form_details">#ccffffff</color>
+    <color name="login_form_details_light">#1affffff</color>
+    <color name="login_form_details_medim">#66ffffff</color>
+
+
+
+
+
+</resources>
